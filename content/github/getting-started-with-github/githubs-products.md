@@ -23,7 +23,7 @@ With {% data variables.product.prodname_free_user %}, your user account includes
 - 2,000 {% data variables.product.prodname_actions %} minutes
 - 500MB {% data variables.product.prodname_registry %} storage
 
-### {% data variables.product.prodname_pro %}
+### {% data variables.product.prodname_pro  %}
 
 In addition to the features available with {% data variables.product.prodname_free_user %} for user accounts, {% data variables.product.prodname_pro %} includes:
 - {% data variables.contact.github_support %} via email
